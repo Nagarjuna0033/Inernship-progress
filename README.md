@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # 📱 Mifos Mobile 7.0 – Internship Progress Report - 2025 
 
 <p align="center">
@@ -11,14 +12,29 @@
 ---
 
 ## 🔗 Quick Links  
-
-- 📂 **All Pull Requests** → [View on GitHub](https://github.com/openMF/mifos-mobile/pulls/Nagarjuna0033)  
-- 📌 **Jira Board** → [View Tasks](https://mifosforge.jira.com/jira/software/c/projects/MM/boards/65?assignee=712020%3A5519b873-099b-42e4-b415-5d8562d644a6)  
-- 𝕏 **Updates** → [Follow me](https://twitter.com/arjun3_b)  
-- 💻 **GitHub Profile** → [@Nagarjuna0033](https://github.com/Nagarjuna0033)
-
----
-
+  <p align="center">
+        <a href="https://twitter.com/arjun3_b" target="_blank">
+      <img alt="X"
+           src="https://img.shields.io/static/v1?style=for-the-badge&label=X&message=X(Twitter)&color=24292e&labelColor=374151&logo=twitter&logoColor=white">
+    </a>&nbsp;
+    <a href="https://github.com/Nagarjuna0033" target="_blank">
+      <img alt="GitHub"
+           src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=GITHUB&color=24292e&labelColor=374151&logo=github&logoColor=white">
+    </a>&nbsp;
+    <a href="https://mifosforge.jira.com/jira/software/c/projects/MM/boards/65?assignee=712020%3A5519b873-099b-42e4-b415-5d8562d644a6" target="_blank">
+      <img alt="Jira"
+           src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Jira&color=24292e&labelColor=374151&logo=jira&logoColor=white">
+    </a>&nbsp;
+    <a href="https://github.com/openMF/mifos-mobile/pulls/Nagarjuna0033" target="_blank">
+      <img alt="pull request"
+         src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Pull-Requests&color=24292e&labelColor=374151&logo=githubactions&logoColor=white">
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/nagarjuna4/" target="_blank">
+      <img alt="LinkedIn"
+           src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=LINKEDIN&color=0A66C2&labelColor=374151&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+  
 ## 📌 Description  
 
 An open-source mobile banking application powered by the Mifos Initiative, designed to enhance financial inclusion by providing unbanked and underbanked populations seamless access to banking services. It offers account management, loan applications and repayments, savings and deposits management, fund transfers, and transaction tracking through integration with the Mifos X backend via RESTful APIs.  
@@ -48,7 +64,11 @@ The project is built on modern, cross-platform technologies ensuring scalability
 | **Project Management**    | Jira + GitHub Projects    | Issue tracking, sprint planning, progress tracking |
 
 ---
+<div align="right">
+  
+[![Back To Top](https://img.shields.io/badge/Back%20To%20Top-Blue?style=flat)](#readme-top)
 
+</div>
 <a id="goals--mid-point-milestone"></a>  
 ## 🎯 Goals & Mid-Point Milestone  
 
@@ -60,7 +80,11 @@ The project is built on modern, cross-platform technologies ensuring scalability
 5. **Cross-Platform Release** – Launch the app on iOS and Desktop platforms.  
 
 ---
+<div align="right">
+  
+[![Back To Top](https://img.shields.io/badge/Back%20To%20Top-Blue?style=flat)](#readme-top)
 
+</div>
 <a id="weekly-progress"></a>  
 ## 📅 Weekly Progress  
 
@@ -80,7 +104,11 @@ The project is built on modern, cross-platform technologies ensuring scalability
 | [12](#week-12-16th--22nd-aug) | 16–22 Aug | Share & Transfers | Share account + Third Party transfer | 7 |
 | [13](#week-13-23rd--29th-aug) | 23-29 Augh | Clean up modules | Focused on **loan module improvements**, **UI consistency**, and **authentication enhancements** | 14 |
 ---
+<div align="right">
+  
+[![Back To Top](https://img.shields.io/badge/Back%20To%20Top-Blue?style=flat)](#readme-top)
 
+</div>
 ## 📂 Detailed Weekly Progress  
 
 
@@ -352,6 +380,11 @@ The project is built on modern, cross-platform technologies ensuring scalability
 - [#2962](https://github.com/openMF/mifos-mobile/pull/2962) – fix: android build  
 
 </details>
+<div align="right">
+  
+[![Back To Top](https://img.shields.io/badge/Back%20To%20Top-Blue?style=flat)](#readme-top)
+
+</div>
 
 <a id="key-learnings"></a>  
 ## 📖 Key Learnings  
@@ -363,7 +396,11 @@ The project is built on modern, cross-platform technologies ensuring scalability
 - Improving developer experience with **refactors & CI/CD pipelines**.  
 
 ---
+<div align="right">
+  
+[![Back To Top](https://img.shields.io/badge/Back%20To%20Top-Blue?style=flat)](#readme-top)
 
+</div>
 <p align="center">
   <em>📌 This is a <strong>living blog</strong> – progress updates are continuously added.  
   Click on the ▸ arrow buttons above to view weekly details.</em>  
