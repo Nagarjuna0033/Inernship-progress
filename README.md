@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Internship-Mifos%20Initiative-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Duration-12%20Weeks-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Ongoing-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PRs%20Merged-✔️%2045+-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-Green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PRs%20Merged-✔️%2060+-informational?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tech-Kotlin%20Multiplatform%20%7C%20Compose%20Multiplatform-orange?style=for-the-badge" />
 </p>  
 
