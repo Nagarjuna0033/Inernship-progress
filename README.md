@@ -29,7 +29,7 @@
       <img alt="pull request"
          src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Pull-Requests&color=24292e&labelColor=374151&logo=githubactions&logoColor=white">
     </a>&nbsp;
-    <a href="https://www.linkedin.com/in/nagarjuna4/" target="_blank">
+    <a href="https://www.linkedin.com/in/nagarjuna3/" target="_blank">
       <img alt="LinkedIn"
            src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=LINKEDIN&color=0A66C2&labelColor=374151&logo=linkedin&logoColor=white">
     </a>
