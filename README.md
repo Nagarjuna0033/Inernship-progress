@@ -78,7 +78,7 @@ The project is built on modern, cross-platform technologies ensuring scalability
 | [10](#week-10-2nd--8th-aug) | 2–8 Aug | Sprint 3–4 | Loan Apply, Transactions, Settings | 9 |
 | [11](#week-11-9th--15th-aug) | 9–15 Aug | Sprint 5–6 | Loan product flows & docs upload | 5 |
 | [12](#week-12-16th--22nd-aug) | 16–22 Aug | Share & Transfers | Share account + Third Party transfer | 7 |
-
+| [13](#week-13-23rd--29th-aug) | 23-29 Augh | Clean up modules | Focused on **loan module improvements**, **UI consistency**, and **authentication enhancements** | 14 |
 ---
 
 ## 📂 Detailed Weekly Progress  
@@ -327,6 +327,32 @@ The project is built on modern, cross-platform technologies ensuring scalability
 </details>
 
 ---
+
+<details id="week-13-23rd--29th-aug">
+<summary>📌 Week 13 (23rd – 29th Aug)</summary>
+
+**Summary**  
+- Focused on **loan module improvements**, **UI consistency**, and **authentication enhancements**.  
+- Fixed multiple Android build issues and updated theme support.  
+
+**Pull Requests**  
+- [#2947](https://github.com/openMF/mifos-mobile/pull/2947) – refactor: made remarks field mandatory & enhance state handling  
+- [#2948](https://github.com/openMF/mifos-mobile/pull/2948) – refactor: text field  
+- [#2949](https://github.com/openMF/mifos-mobile/pull/2949) – refactor: rounding amount to decimals  
+- [#2950](https://github.com/openMF/mifos-mobile/pull/2950) – refactor: loan repayment schedule with prepopulated data  
+- [#2951](https://github.com/openMF/mifos-mobile/pull/2951) – refactor: use first name instead of username for better readability  
+- [#2952](https://github.com/openMF/mifos-mobile/pull/2952) – refactor(loan): show consistent loan actions for all account statuses  
+- [#2953](https://github.com/openMF/mifos-mobile/pull/2953) – refactor: make middle name optional  
+- [#2954](https://github.com/openMF/mifos-mobile/pull/2954) – refactor: navigation after transfers, update, withdraw  
+- [#2955](https://github.com/openMF/mifos-mobile/pull/2955) – refactor: make transfer handling  
+- [#2956](https://github.com/openMF/mifos-mobile/pull/2956) – feat: updating theme  
+- [#2957](https://github.com/openMF/mifos-mobile/pull/2957) – refactor: auth module with loading animation  
+- [#2959](https://github.com/openMF/mifos-mobile/pull/2959) – refactor(loan-application): dialogs  
+- [#2960](https://github.com/openMF/mifos-mobile/pull/2960) – fix: android build  
+- [#2962](https://github.com/openMF/mifos-mobile/pull/2962) – fix: android build  
+
+</details>
+
 <a id="key-learnings"></a>  
 ## 📖 Key Learnings  
 
